@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12577eff-d729-491f-ae64-bd0f0eb78a9a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Mybatis-study" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XycaOqV1AcTtnxyQhMS6DupScN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.data.extractors.current.id" value="SQL Inserts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Desktop/spring-boot/ac-blog-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\360MoveData\Users\Administrator\Mybatis-study\mybatis-06\src\main\resources\com\yan\mapper" />
+      <recent name="D:\360MoveData\Users\Administrator\Mybatis-study\mybatis-02\src\main\resources" />
+      <recent name="D:\360MoveData\Users\Administrator\Mybatis-study\mybatis-01\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utils" />
+      <recent name="com.yan.utils" />
+      <recent name="" />
+      <recent name="com.yan.pojo" />
+      <recent name="com.yan.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\360MoveData\Users\Administrator\Mybatis-study\mybatis-09\src\main\java" />
+      <recent name="D:\360MoveData\Users\Administrator\Mybatis-study\mybatis-09\src\main\resources" />
+      <recent name="D:\360MoveData\Users\Administrator\Mybatis-study\mybatis-08\src\main\resources" />
+      <recent name="D:\360MoveData\Users\Administrator\Mybatis-study\mybatis-07\src\main\resources" />
+      <recent name="D:\360MoveData\Users\Administrator\Mybatis-study\mybatis-07\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyTest.queryUsersById">
+    <configuration name="MyTest.queryBlogIF" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-08" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="queryBlogIF" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.queryUsersById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-09" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="queryUsersById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-08" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test07.getTeacher" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-07" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test07" />
+      <option name="METHOD_NAME" value="getTeacher" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test07.getTeacher2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-07" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test07" />
+      <option name="METHOD_NAME" value="getTeacher2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyTest.queryUsersById" />
+        <item itemvalue="JUnit.MyTest.queryBlogIF" />
+        <item itemvalue="JUnit.MyTest.test" />
+        <item itemvalue="JUnit.Test07.getTeacher2" />
+        <item itemvalue="JUnit.Test07.getTeacher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12577eff-d729-491f-ae64-bd0f0eb78a9a" name="Default Changelist" comment="" />
+      <created>1582021837796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582021837796</updated>
+      <workItem from="1582021841124" duration="34629000" />
+      <workItem from="1582203276616" duration="27806000" />
+      <workItem from="1582431589823" duration="1104000" />
+      <workItem from="1582433913495" duration="173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="0" key="#SQL_Dialects" timestamp="1582103827332">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="0" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1582103827332" />
+    <state x="307" y="62" width="1229" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582273968790">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="307" y="62" width="1229" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582273968790" />
+    <state x="308" y="195" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582189652413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="308" y="195" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582189652413" />
+    <state x="530" y="40" key="#com.intellij.ide.util.MemberChooser" timestamp="1582022180036">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="40" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582022180036" />
+    <state x="245" y="322" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582287000046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="245" y="322" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1582287000046" />
+    <state width="314" height="242" key="DatabaseViewActions_Filter" timestamp="1582283821137">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="314" height="242" key="DatabaseViewActions_Filter/0.0.1536.824@0.0.1536.824" timestamp="1582283821137" />
+    <state x="499" y="109" key="FileChooserDialogImpl" timestamp="1582431749240">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="109" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582431749240" />
+    <state width="1483" height="576" key="GridCell.Tab.0.bottom" timestamp="1582385650673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="576" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582385650673" />
+    <state width="1483" height="576" key="GridCell.Tab.0.center" timestamp="1582385650673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="576" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582385650673" />
+    <state width="1483" height="576" key="GridCell.Tab.0.left" timestamp="1582385650672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="576" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582385650672" />
+    <state width="1483" height="576" key="GridCell.Tab.0.right" timestamp="1582385650673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="576" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582385650673" />
+    <state width="1483" height="466" key="GridCell.Tab.1.bottom" timestamp="1582358466829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="466" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582358466829" />
+    <state width="1483" height="466" key="GridCell.Tab.1.center" timestamp="1582358466829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="466" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582358466829" />
+    <state width="1483" height="466" key="GridCell.Tab.1.left" timestamp="1582358466829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="466" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582358466829" />
+    <state width="1483" height="466" key="GridCell.Tab.1.right" timestamp="1582358466829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="466" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582358466829" />
+    <state width="292" height="593" key="HiddenNamespacesPopup" timestamp="1582021975867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="292" height="593" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1582021975867" />
+    <state x="139" y="0" key="SettingsEditor" timestamp="1582274694840">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="139" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582274694840" />
+    <state x="574" y="253" width="430" height="318" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1582359258318">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="253" width="430" height="318" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1582359258318" />
+    <state x="419" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1582360268594">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="419" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1582360268594" />
+    <state x="361" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1582433913354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="194" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582433913354" />
+    <state x="0" y="37" key="new project wizard" timestamp="1582434084588">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="37" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582434084588" />
+    <state x="451" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1582359491495">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="451" y="0" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1582359491495" />
+    <state x="347" y="0" width="840" height="822" key="search.everywhere.popup" timestamp="1582103472019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="0" width="840" height="822" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582103472019" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis-01/src/test/java/com/yan/dao/UserDaoTest.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
